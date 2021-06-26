@@ -1,12 +1,11 @@
-## 🔲DUELIST Website(fictional-educational purposes only)
+## 🔲DUELIST Gaming Dashboard Project(fictional-educational purposes only)
 
 ## 💻 To Visit the site, click the link below
 
-https://crischoy23.github.io/DUELIST/
+https://duelist-next-project.vercel.app/featured
 
-<b>Static Landing Page Web Design
-
-## 👩 AboutThe Project
+## 🔳 AboutThe Project
+   -This project is a collaboration of our team with three members. The goal of this project was to build a gaming dashboard with multiple pages. The design, color and content are decided by us.
 
 - 🌱
 
@@ -43,17 +42,6 @@ https://crischoy23.github.io/DUELIST/
     
 </p>
 
-## 📫 Connect with me:
 
-<p align="left">
-<a href = "https://www.linkedin.com/in/crispina-choy-awon-564421210"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/crischoy23/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-</p>
 
-## 👀 Views and Followers
 
-<p align="left">
-<a><img src="https://komarev.com/ghpvc/?username=crischoy23">
-</a>
-<a><img src="https://img.shields.io/github/followers/crischoy23?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
