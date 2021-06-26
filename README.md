@@ -33,12 +33,12 @@ https://duelist-next-project.vercel.app/featured
 ## 🚀 Languages and Tools Used:
 
 <p align="left"> 
-    <a> <img src="/img/" height="50px" width="60px"/> </a> 
+   <img src="https://user-images.githubusercontent.com/80525007/123513505-2bb0bd00-d6c0-11eb-853f-cb09284180de.png" height="50px" width="60px">
     <a> <img src="https://img.icons8.com/color/48/000000/html-5.png" height="50px" width="60px"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/css3.png" height="50px" width="60px"/> </a>
     <a> <img src="https://img.icons8.com/color/48/000000/git.png" height="50px" width="60px"/> </a> 
     <a> <img src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"  height="60px" width="60px"/> </a> 
-        <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"  height="50px" width="60px"/> </a> 
+    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"  height="50px" width="60px"/> </a> 
     
     
 </p>
