@@ -1,4 +1,5 @@
 ## 🔲DUELIST Gaming Dashboard Project(fictional-educational purposes only)
+![Duelist PRS](https://user-images.githubusercontent.com/80525007/123513083-b5ab5680-d6bd-11eb-9152-8f6942dcc2a5.png)
 
 ## 💻 To Visit the site, click the link below
 
@@ -36,7 +37,7 @@ https://duelist-next-project.vercel.app/featured
     <a> <img src="https://img.icons8.com/color/48/000000/html-5.png" height="50px" width="60px"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/css3.png" height="50px" width="60px"/> </a>
     <a> <img src="https://img.icons8.com/color/48/000000/git.png" height="50px" width="60px"/> </a> 
-    <a> <img src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"  height="50px" width="60px"/> </a> 
+    <a> <img src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"  height="60px" width="60px"/> </a> 
         <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"  height="50px" width="60px"/> </a> 
     
     
