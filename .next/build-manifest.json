@@ -14,11 +14,6 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-    "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
-    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -34,10 +29,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/dashboard.js"
     ],
-    "/featured": [
+    "/live": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/featured.js"
+      "static/chunks/pages/live.js"
     ],
     "/team-profile": [
       "static/chunks/webpack.js",
