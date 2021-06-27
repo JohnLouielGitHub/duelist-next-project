@@ -1,9 +1,14 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
+  "/dashboard": "pages/dashboard.html",
+  "/featured": "pages/featured.html",
+  "/": "pages/index.html",
+  "/live": "pages/live.html",
+  "/register": "pages/register.html",
+  "/team-profile": "pages/team-profile.html",
+  "/teams": "pages/teams.html",
+  "/videos": "pages/videos.html",
   "/_error": "pages/_error.js",
-  "/teams": "pages/teams.js",
-  "/team-profile": "pages/team-profile.js",
-  "/dashboard": "pages/dashboard.js",
-  "/live": "pages/live.js"
+  "/404": "pages/404.html"
 }
